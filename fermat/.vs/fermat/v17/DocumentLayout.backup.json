@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikit\\Desktop\\FUNmap_6\\fermat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8859E038-F9F8-4056-8EB0-8383584162E0}|fermat.vcxproj|C:\\Users\\nikit\\Desktop\\FUNmap_6\\fermat\\fermat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8859E038-F9F8-4056-8EB0-8383584162E0}|fermat.vcxproj|solutionrelative:fermat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fermat.cpp",
+              "DocumentMoniker": "C:\\Users\\nikit\\Desktop\\FUNmap_6\\fermat\\fermat.cpp",
+              "RelativeDocumentMoniker": "fermat.cpp",
+              "ToolTip": "C:\\Users\\nikit\\Desktop\\FUNmap_6\\fermat\\fermat.cpp*",
+              "RelativeToolTip": "fermat.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-17T19:18:23.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
