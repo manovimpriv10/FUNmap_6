@@ -4,6 +4,7 @@
 
 int main() 
 {
+   #error "TeamCity test: compilation error"
     setlocale(LC_ALL, "Russian");
     std::cout << "FUNmap TeamCity Demo: Великая теорема Ферма" << std::endl;
     std::cout << "\nПроверяем для n=2 (теорема Пифагора):" << std::endl;
