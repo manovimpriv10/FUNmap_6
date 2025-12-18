@@ -1,2 +1,9 @@
 ﻿  fermat.cpp
-C:\Users\nikit\Desktop\FUNmap_6\fermat\fermat.cpp(7,1): error C1189: #error:  "TeamCity test: compilation error"
+C:\Users\nikit\Desktop\FUNmap_6\fermat\fermat.cpp(94,33): warning C4566: символ, представленный универсальным именем символа "\u00B2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nikit\Desktop\FUNmap_6\fermat\fermat.cpp(94,49): warning C4566: символ, представленный универсальным именем символа "\u00B2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nikit\Desktop\FUNmap_6\fermat\fermat.cpp(94,65): warning C4566: символ, представленный универсальным именем символа "\u00B2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nikit\Desktop\FUNmap_6\fermat\fermat.cpp(102,18): warning C4566: символ, представленный универсальным именем символа "\u207F", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nikit\Desktop\FUNmap_6\fermat\fermat.cpp(109,65): warning C4566: символ, представленный универсальным именем символа "\u00B3", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nikit\Desktop\FUNmap_6\fermat\fermat.cpp(109,85): warning C4566: символ, представленный универсальным именем символа "\u00B3", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nikit\Desktop\FUNmap_6\fermat\fermat.cpp(109,105): warning C4566: символ, представленный универсальным именем символа "\u00B3", невозможно представить в текущей кодовой странице (1251)
+  fermat.vcxproj -> C:\Users\nikit\Desktop\FUNmap_6\fermat\x64\Debug\fermat.exe
